@@ -29,17 +29,14 @@
       "answer": "Von Neumann architecture is a computer architecture that uses a single memory space for storing both data and instructions. It consists of a central processing unit (CPU), memory, input/output devices, and a control unit."
     },
     {
-      "question": "who invented you?",
+      "question": "who developed you?",
       "answer": "i am intelligent chatbot which is developed by Deshik"
     }
   ],
-  {
   "Syllabus": [
     {
       "question": "What is the syllabus for R23 2-2?",
       "answer": "Here’s the syllabus for B.Tech. II Year II Semester (R23 Regulation):\n\n1. **Optimization Techniques** – Management Course-I\n2. **Probability & Statistics** – Engineering Science/Basic Science\n3. **Machine Learning** – Professional Core\n4. **Database Management Systems** – Professional Core\n5. **Digital Logic & Computer Organization** – Professional Core"
     }
   ]
-}
-
 }
