@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 from chatbot import get_response
 from flask_cors import CORS  # Enable CORS for cross-origin requests
+import os
 
 app = Flask(__name__)
 CORS(app)  # Allow cross-origin requests from the frontend
@@ -24,4 +25,5 @@ def ask():
     return jsonify({"response": response})
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Grab dynamic port from Render
+    app.run(host='0.0.0.0', port=port, debug=True)
