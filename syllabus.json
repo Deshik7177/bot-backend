@@ -1,0 +1,32 @@
+{
+  "Machine Learning": [
+    {
+      "question": "What is the evolution of machine learning?",
+      "answer": "Machine learning has evolved from simple linear regression models to advanced deep learning techniques like neural networks. It includes supervised learning, unsupervised learning, and reinforcement learning, with major advancements in algorithms and computational power."
+    },
+    {
+      "question": "Explain the concept of reinforcement learning.",
+      "answer": "Reinforcement learning is a type of machine learning where an agent learns to make decisions by receiving rewards or penalties based on the actions it takes in an environment. It involves exploration and exploitation to maximize cumulative reward."
+    }
+  ],
+  "Database Management Systems": [
+    {
+      "question": "What is the difference between a database and a file system?",
+      "answer": "A database is a structured collection of data that is managed by a database management system (DBMS), while a file system is a method for storing and organizing files on a computer. Databases support complex queries, relationships, and data integrity, whereas file systems are simpler and less structured."
+    },
+    {
+      "question": "What is normalization in databases?",
+      "answer": "Normalization is the process of organizing data in a database to minimize redundancy and improve data integrity. It involves dividing large tables into smaller, related tables and applying normal forms such as 1NF, 2NF, 3NF, and BCNF."
+    }
+  ],
+  "Digital Logic & Computer Organization": [
+    {
+      "question": "What is a flip-flop in digital circuits?",
+      "answer": "A flip-flop is a basic digital memory circuit that can store one bit of data. It has two stable states and is used for data storage, synchronization, and sequential logic operations."
+    },
+    {
+      "question": "Explain the concept of Von Neumann architecture.",
+      "answer": "Von Neumann architecture is a computer architecture that uses a single memory space for storing both data and instructions. It consists of a central processing unit (CPU), memory, input/output devices, and a control unit."
+    }
+  ]
+}
