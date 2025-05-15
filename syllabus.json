@@ -39,26 +39,25 @@
     {
       "question": "Who developed you?",
       "answer": "I am an intelligent chatbot developed by Deshik."
+    }
+  ],
+  {
+  "KIET Info": [
+    {
+      "question": "Who is the chairman of KIET group?",
+      "answer": "Mr P V Viswam is the chairman of KIET group."
     },
     {
-      "question": "who is silencer?",
-      "answer": "Senior satish from kiet ncc cadet also know as silencer in room no. 205"
+      "question": "What are the various clubs in KIET?",
+      "answer": "Toast Masters club, GCC (Global Coding Club), Cyber Crew, KRL (KIET Robotics Lab), K-HUB, NCC (National Cadet Corps), NSS (National Service Scheme), Navy, Airforce."
     },
-     {
-      "question": "who is smokey?",
-      "answer": "Teja also know as smokey in room no. 205"
+    {
+      "question": "Tell me about KIET group.",
+      "answer": "KIET Group of Institutions was founded in 2001 with a clear goal - to provide the best environment for students to develop in all aspects of life. Over 25 years, KIET has become a renowned institution and the first AI college in the region. Partnering with IIIT-Hyderabad shows its commitment to excellence, offering quality education and a safe learning environment."
     },
-     {
-      "question": "who is athu?",
-      "answer": "Aditya Ex-Toastmaster also know as athu in room no. 205"
-    },
-     {
-      "question": "who is jonthan?",
-      "answer": "raja sekhar ex-lover boy also know as mary-jonthan from childhood in room no. 205"
-    },
-     {
-      "question": "who is das?",
-      "answer": "Nanda kishor also know as nattu das, leo das, dumal das, himalaya das, cooling system, pathiban, allshoot nattu by room no. 205"
+    {
+      "question": "What courses does KIET offer in B.Tech?",
+      "answer": "Undergraduate courses include Artificial Intelligence (CAI), Data Science (CSD), AI & Machine Learning (CSM), AI & Data Science (AID), Cyber Security (CSC), and Artificial Intelligence (CAI)."
     }
   ]
 }
