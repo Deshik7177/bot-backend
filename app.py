@@ -6,6 +6,10 @@ import os
 app = Flask(__name__)
 CORS(app)  # Allow cross-origin requests from the frontend
 
+@app.route("/",methods=["GET"])
+def home():
+    return jsonify({"message" : "backend running"}),200
+
 @app.route("/ask", methods=["POST"])
 def ask():
     # Get the query from the frontend (JSON data sent in the body)
